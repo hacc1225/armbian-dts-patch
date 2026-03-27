@@ -11,7 +11,6 @@
 #include <dt-bindings/pwm/pwm.h>
 #include <dt-bindings/usb/pd.h>
 //#include <dt-bindings/leds/common.h>
-#include "rk3399.dtsi"
 #include "rk3399-op1.dtsi"
 
 / {
